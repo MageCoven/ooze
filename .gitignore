@@ -2,3 +2,6 @@
 boot/kernel.bin
 dist
 build
+
+# VSCode specific
+debug.log
